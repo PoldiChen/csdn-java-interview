@@ -1,18 +1,18 @@
 /**
  * @project csdn-java-interview
  * @package no32
- * @file InterB.java
+ * @file InterA.java
  * @author chenxihong
  */
-package no32;
+package question032;
 
 /** 
- * Class: InterB
- * date: 2017年7月16日 下午2:51:01
+ * Class: InterA
+ * date: 2017年7月16日 下午2:48:39
  * @author chenxihong 
  * @version  
  * @since JDK 1.8
  */
-public interface InterB {
+public interface InterA {
 
 }

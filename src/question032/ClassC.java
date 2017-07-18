@@ -4,7 +4,7 @@
  * @file ClassC.java
  * @author chenxihong
  */
-package no32;
+package question032;
 
 /** 
  * Class: ClassC

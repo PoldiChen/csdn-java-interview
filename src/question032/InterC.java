@@ -1,18 +1,18 @@
 /**
  * @project csdn-java-interview
  * @package no32
- * @file InterA.java
+ * @file InterC.java
  * @author chenxihong
  */
-package no32;
+package question032;
 
 /** 
- * Class: InterA
- * date: 2017年7月16日 下午2:48:39
+ * Class: InterC
+ * date: 2017年7月16日 下午2:48:55
  * @author chenxihong 
  * @version  
  * @since JDK 1.8
  */
-public interface InterA {
+public interface InterC extends InterA, InterB {
 
 }

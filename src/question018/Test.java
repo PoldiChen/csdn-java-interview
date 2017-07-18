@@ -1,10 +1,10 @@
 /**
  * @project csdn-java-interview
- * @package no18
+ * @package question018
  * @file Test.java
  * @author chenxihong
  */
-package no18;
+package question018;
 
 /** 
  * Class: Test

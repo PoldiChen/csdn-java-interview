@@ -4,7 +4,7 @@
  * @file Test.java
  * @author chenxihong
  */
-package no51;
+package question051;
 
 /** 
  * Class: Test
